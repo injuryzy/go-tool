@@ -1,4 +1,4 @@
-package DFA
+package dfa
 
 type Node struct {
 	//结束

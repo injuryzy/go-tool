@@ -1,4 +1,4 @@
-package DFA
+package dfa
 
 import (
 	"fmt"

@@ -1,4 +1,4 @@
-package DFA
+package dfa
 
 type Matcher interface {
 	//构建铭感词
