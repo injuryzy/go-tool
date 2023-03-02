@@ -1,4 +1,5 @@
 [dfa 算法](https://github.com/injuryzy/go-tool)
+[dfa 算法](https://github.com/injuryzy/go-tool)
 
 ![](https://cdn.nlark.com/yuque/0/2022/jpeg/1535149/1662914586770-0a6c8f3d-d6cb-4dd8-979b-e838121f5a1a.jpeg)
 
